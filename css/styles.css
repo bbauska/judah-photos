@@ -6,7 +6,7 @@
 .container {
   width: 100%;
   height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .8)), url("https://github.com/bbauska/judah-photos/blob/main/images/Judah-Hayden-5-31-26-1.jpg?raw=true") no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .8)), url("https://github.com/bbauska/judah-photos/blob/main/images/1200x909.jpg?raw=true") no-repeat;
   background-size: cover;
 }
 .viewport {
