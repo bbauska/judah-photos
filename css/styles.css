@@ -145,16 +145,16 @@
 }
 .left-arrow {
   font-color: lightgreen;
-  top: 30%;  /* 50%; */
-  left: -15%;  /* -35%; */
+  top: 50%;  /* 50%; */
+  left: -35%;  /* -35%; */
 }
 .right-arrow {
   font-color: lightgreen;
-  top: 30%;  /* 50%; */
-  left: 100%;  /* 135%; */
+  top: 50%;  /* 50%; */
+  left: 135%;  /* 135%; */
 }
 .play-pause {
   font-color: lightgreen;
-    top: 100%;  /* 140%; */
-    left: 80%;  /* 120%; */
+    top: 140%;  /* 140%; */
+    left: 120%;  /* 120%; */
 }
