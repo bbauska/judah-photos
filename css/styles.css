@@ -113,19 +113,19 @@
 
 .top {
   height: 42vw;
-  background-color: #ff0000;  /* red, was; #111; Very dark gray (mostly black) */
+  background-color: #111;  /* red, was; #111; Very dark gray (mostly black) */
   transform: translateY(-21vw) rotateX(90deg);
 }
 .bottom {
   height: 42vw;
-  background-color: #ff0000;  /* red, was; #111; Very dark gray (mostly black) */
+  background-color: #111;  /* red, was; #111; Very dark gray (mostly black) */
   transform: translateY(-14vw) rotateX(-90deg);
 }
 .control {
   width: 40px;
   height: 40px;
   align-items: center;
-  color: #ff0000;  /* was: black #fff; */
+  color: #fff;  /* was: black #fff; */
   position: absolute;
   border-radius: 100%;
   transform: translate(-50%, -50%);
