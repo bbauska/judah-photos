@@ -144,14 +144,14 @@
   pointer-events: none;
 }
 .left-arrow {
-  top: 10%;  /* 50%; */
+  top: 50%;  /* 50%; */
   left: -35%;  /* -35%; */
 }
 .right-arrow {
-  top: 10%;  /* 50%; */
+  top: 50%;  /* 50%; */
   left: 135%;  /* 135%; */
 }
 .play-pause {
   top: 140%;  /* 140%; */
-  left: 100%;  /* 120%; */
+  left: 120%;  /* 120%; */
 }
